@@ -65,8 +65,7 @@ a:hover {
 
   .roles li:before {
     content: "/";
-    padding-right: 1rem;
-    padding-left: 0.5rem;
+    padding: 0 1rem;
     opacity: 0.5;
   }
 
